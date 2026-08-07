@@ -1,4 +1,32 @@
+@font-face {
+  font-family: 'Alternate';
+  src: url('../fonts/GoudyMedieval-Alternate.woff2') format('woff2'),
+       url('../fonts/GoudyMedieval-Alternate.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Thirty';
+  src: url('../fonts/GoudyThirty-DemiBold.woff2') format('woff2'),
+       url('../fonts/GoudyThirty-DemiBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Initial';
+  src: url('../fonts/GoudyInitialen.woff2') format('woff2'),
+       url('../fonts/GoudyInitialen.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 h1 {
+  font-family: "Alternate", Roboto, Helvetica, Arial, sans-serif;
   color: #947d47;
   text-align: center;
 }
