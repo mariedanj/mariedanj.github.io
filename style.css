@@ -174,31 +174,6 @@ a:hover {
   text-decoration: none;
 }
 
-p button {
-  font-family: "Thirty", Roboto, Helvetica, Arial, sans-serif;
-  color: #FFF;
-  font-size: 20px;
-}
-
-button:hover{
-  color: #d3cfa4;
-}
-
-button:visited{
-  color: #FFF;
-}
-
-button {
-  display: block;
-  margin: auto;
-  border-radius: 10px;
-  background-color: #947d47;
-  color: #FFF;
-  text-align: center;
-  padding: 10px;
-  cursor: pointer;
-}
-
 /**
  * Blockquotes
  */
